@@ -44,7 +44,7 @@ The project is still under development, and several important features and analy
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/StockChartVisualization.git
+   git clone https://github.com/Scarraluba/Stock-Chart.git
    cd StockChart
    ```
 
@@ -76,7 +76,7 @@ The project is still under development, and several important features and analy
 1. **Fork the Repository**.
 2. **Clone your Fork**.
    ```bash
-   git clone https://github.com/YourUsername/StockChartVisualization.git
+   git clone https://github.com/Scarraluba/Stock-Chart.git
    ```
 3. **Create a Feature Branch**.
    ```bash
