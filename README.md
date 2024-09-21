@@ -1,7 +1,3 @@
-Here's an updated version of the `README.md` with the addition that the analysis tools are not yet complete:
-
----
-
 # Stock Chart 
 
 ## Overview
