@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1ab300-7768-41b1-bb5f-aa95741d4b77" name="Changes" comment="Test First Build and Commit" />
+    <list default="true" id="2b1ab300-7768-41b1-bb5f-aa95741d4b77" name="Changes" comment="Test First Build and Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/CSVReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/ChartElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/ChartMouseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/ChartPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/XAxisRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/YAxisRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/chartRenderers/BarChartElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/chartRenderers/CandlestickChartElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/chartRenderers/ChartData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/chartRenderers/LineChartElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/dataTypes/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/dataTypes/BarData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/dataTypes/Candle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/dataTypes/CandleData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/chart/dataTypes/LineData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/EURUSD_H1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_09_22_00_01__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_09_22_00_01__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/concrete/goonie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concrete/goonie/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +42,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2mOgeRCz7w5uIEOqaCraul9jq1Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,9 +55,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sphelele/IdeaProjects/StockChart/src/main/java/concrete/goonie/dataTypes",
     "onboarding.tips.debug.path": "C:/Users/sphelele/IdeaProjects/StockChart/src/main/java/concrete/goonie/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sphelele\IdeaProjects\StockChart\src\main\java\concrete\goonie\dataTypes" />
+      <recent name="C:\Users\sphelele\IdeaProjects\StockChart\src\main\java\concrete\goonie" />
+      <recent name="C:\Users\sphelele\IdeaProjects\StockChart\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="concrete.goonie" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726954225460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test First Build and Commit">
+      <option name="closed" value="true" />
+      <created>1726957017302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726957017302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
