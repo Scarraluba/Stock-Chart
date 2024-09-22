@@ -32,9 +32,8 @@ The project is still under development, and several important features and analy
    - **Next Steps**: Create better logic to handle very small ranges without excessive spacing between grid lines.
 ---
 ### Demo
-
-![Demo](path_to_video/
-2024-09-22 02-29-09.mkv)
+![image](https://github.com/user-attachments/assets/84287be4-3e88-4d4b-b8b4-255941c9ca9e)
+![image](https://github.com/user-attachments/assets/798222c4-43b1-4fab-9dbd-972d39f673b4)
 
 ## Getting Started
 
