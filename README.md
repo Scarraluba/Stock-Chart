@@ -31,6 +31,10 @@ The project is still under development, and several important features and analy
    - **Issue**: The chart struggles with very small values (e.g., currency pairs around 1), creating large grid line gaps.
    - **Next Steps**: Create better logic to handle very small ranges without excessive spacing between grid lines.
 ---
+### Demo
+
+![Demo](path_to_video/
+2024-09-22 02-29-09.mkv)
 
 ## Getting Started
 
